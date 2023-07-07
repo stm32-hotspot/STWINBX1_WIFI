@@ -1,6 +1,6 @@
 # WIFI support for STEVAL-STWINBX1
 
-![latest tag](https://img.shields.io/github/v/tag/stm32-hotspot/STWINBX1_WIFI.svg?color=brightgreen
+![latest tag](https://img.shields.io/github/v/tag/stm32-hotspot/STWINBX1_WIFI.svg?color=brightgreen)
 
 
 **STWINBX1_WIFI** package enables the support for the MXCHIP WIFI module mounted on the STEVAL-STWINBX1.
